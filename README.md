@@ -34,7 +34,7 @@ sector behavior within that environment.
 
 ## Project structure
 
-'''
+```text
 SP500_Analysis/
 ├── data/
 │   ├── raw/              # Raw CSVs from yfinance
@@ -48,7 +48,7 @@ SP500_Analysis/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
-'''
+```
 
 ## Key findings
 
