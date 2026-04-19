@@ -52,8 +52,6 @@ SP500_Analysis/
 
 ## Key findings
 
-## Key findings
-
 1. **Sector leadership rotates with the macro regime.** No sector wins in every environment. XLK led pre-COVID (+46.9%) and the recover (+127.4%). XLE dominated the rate hike era (+148.7%). XLP held up best in the crash, losing only 24.2% when every other sector lost more. Leadership is regime-dependent, not structural, which is the core argument for building a cycle-aware dashboard rather than static ranking.
 
 2. **XLE is in a category of its own for volatility and return range.** Annualized volatility of 32.1%, roughly 10 percentage points above the cross-sector average of 22.5%. The return spread across cycles runs from -56% in the COVID crash to +148.7% in the rate hike era. No other sector comes close to that range. Energy is not just volatile in the statistical sense, it is driven by a completely different set of factors (commodity prices, geopolitics, supply shocks) than the rest of the index.
