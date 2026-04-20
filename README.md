@@ -39,6 +39,7 @@ SP500_Analysis/
 ├── data/
 │   ├── raw/              # Raw CSVs from yfinance
 │   └── cleaned/          # Cleaned and combined data
+├── figures/              # Python figures of the SP500 analysis
 ├── notebooks/
 │   └── eda.ipynb      # Full exploratory analysis
 ├── scripts/
